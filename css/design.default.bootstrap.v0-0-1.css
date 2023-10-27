@@ -2752,7 +2752,6 @@ body {
   font-size: 1.6rem;
   font-family: "ColgateReady", "Arial", sans-serif;
   position: relative;
-  overflow: hidden;
   -webkit-font-smoothing: antialiased;
   word-break: break-word;
 }

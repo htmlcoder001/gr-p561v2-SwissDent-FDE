@@ -1787,9 +1787,17 @@
   }
 }
 
-@media (min-height: 790px) {
+@media (max-width: 768px) {
   .ejjq64ki.ejjq64ki {
-    width: 680px;
+    width: calc(100% - 8px);
+    max-width: 680px;
+  }
+  
+  .dati1w0a {
+    padding-left: 8px;
+  }
+  .hv4rvrfc {
+    padding-right: 8px;
   }
 }
 
